@@ -1,3 +1,12 @@
 * {
   box-sizing: border-box;
 }
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+nav li  {
+  list-style-type: none;
+  font-size: 25px;
+  color: tomato;
+}
