@@ -10,3 +10,9 @@ nav li  {
   font-size: 25px;
   color: tomato;
 }
+.one img {
+  max-width: 300px;
+  max-width: 50%;
+  margin-left: 280px;
+  margin-top: 20px;
+}
